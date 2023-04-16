@@ -1,0 +1,4 @@
+CREATE TABLE party (
+    party_id INTEGER NOT NULL PRIMARY KEY,
+    party_type VARCHAR(200) NOT NULL
+);
