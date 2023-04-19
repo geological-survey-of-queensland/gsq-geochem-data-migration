@@ -1,0 +1,1 @@
+CREATE TABLE party_relationship_temp (party_id INTEGER, parent_company VARCHAR(10), related_party_id INTEGER)

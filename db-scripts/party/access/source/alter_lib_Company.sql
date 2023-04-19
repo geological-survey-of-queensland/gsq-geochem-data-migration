@@ -1,0 +1,1 @@
+ALTER TABLE lib_Company ADD COLUMN company_id INTEGER;

@@ -1,5 +1,5 @@
-CREATE TABLE organisation_detail (
-    organisation_detail_id INTEGER NOT NULL PRIMARY KEY,
+CREATE TABLE party_organisation_detail (
+    organisation_detail_id AUTOINCREMENT PRIMARY KEY,
     party_id INTEGER NOT NULL,
     organisation_name VARCHAR(200) NOT NULL,
     org_name_type TEXT,
@@ -7,5 +7,5 @@ CREATE TABLE organisation_detail (
     activity_status TEXT NOT NULL,
     CONSTRAINT fk_organisation_detail_party
         FOREIGN KEY(party_id)
-        REFERENCES party(party_id)
+        REFERENCES party_party(party_id)
 );

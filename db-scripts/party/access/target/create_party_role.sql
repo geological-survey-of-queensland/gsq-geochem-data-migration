@@ -1,5 +1,5 @@
-CREATE TABLE party_role (
-    party_role_id INTEGER NOT NULL PRIMARY KEY,
+CREATE TABLE party_party_role (
+    party_role_id AUTOINCREMENT PRIMARY KEY,
     site_id INTEGER,
     report_id INTEGER,
     sample_id INTEGER,
@@ -13,5 +13,5 @@ CREATE TABLE party_role (
     end_date DATETIME,
     CONSTRAINT fk_party_role_party
         FOREIGN KEY(party_id)
-        REFERENCES party(party_id)
+        REFERENCES party_party(party_id)
 );
