@@ -1,3 +1,4 @@
-INSERT INTO party_id ( Company )
-SELECT Company
-FROM lib_Company;
+CREATE TABLE party_id (
+    party_id_id AUTOINCREMENT PRIMARY KEY,
+    Company TEXT
+);
