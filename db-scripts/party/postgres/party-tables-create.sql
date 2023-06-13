@@ -49,7 +49,7 @@ CREATE TABLE party_relationship (
 );
 
 CREATE TABLE address (
-    address_id BIGINT NOT NULL PRIMARY KEY,
+    address_id BIGINT NOT NULL PRIMARY KEY AUTOINCREMENT,
     party_id BIGINT NOT NULL,
     address_type TEXT NOT NULL,
     CONSTRAINT fk_party
