@@ -1,0 +1,28 @@
+ID,IRI,PREF_LABEL,DEFINITION
+1,http://vocabulary.odm2.org/specimentype/automated,Automated,Sample collected using an automated sampler
+2,http://vocabulary.odm2.org/specimentype/biota,Biota,"A specimen consisting of all or part of a biological organism, including flora or fauna"
+3,http://vocabulary.odm2.org/specimentype/core,Core,Long cylindrical cores
+4,http://vocabulary.odm2.org/specimentype/coreHalfRound,Core half round,Half-cylindrical products of along-axis split of a whole round
+5,http://vocabulary.odm2.org/specimentype/corePiece,Core piece,Material occurring between unambiguous [as curated] breaks in recovery
+6,http://vocabulary.odm2.org/specimentype/coreQuarterRound,Core quarter round,Quarter-cylindrical products of along-axis split of a half round
+7,http://vocabulary.odm2.org/specimentype/coreSection,Core section,"Arbitrarily cut segments of a ""core"""
+8,http://vocabulary.odm2.org/specimentype/coreSectionHalf,Core section half,Half-cylindrical products of along-axis split of a section or its component fragments through a selected diameter
+9,http://vocabulary.odm2.org/specimentype/coreSub-Piece,Core sub-piece,Unambiguously mated portion of a larger piece noted for curatorial management of the material
+10,http://vocabulary.odm2.org/specimentype/coreWholeRound,Core whole round,Cylindrical segments of core or core section material
+11,http://vocabulary.odm2.org/specimentype/cuttings,Cuttings,"Loose, coarse, unconsolidated material suspended in drilling fluid"
+12,http://vocabulary.odm2.org/specimentype/dredge,Dredge,A group of rocks collected by dragging a dredge along the seafloor
+13,http://vocabulary.odm2.org/specimentype/foliageDigestion,Foliage digestion,Sample that consists of a digestion of plant foliage
+14,http://vocabulary.odm2.org/specimentype/foliageLeaching,Foliage leaching,Sample that consists of leachate from foliage
+15,http://vocabulary.odm2.org/specimentype/forestFloorDigestion,Forest floor digestion,Sample that consists of a digestion of forest floor material
+16,http://vocabulary.odm2.org/specimentype/grab,Grab,"A sample (sometimes mechanically collected) from a deposit or area, not intended to be representative of the deposit or area"
+17,http://vocabulary.odm2.org/specimentype/individualSample,Individual sample,"A sample that is an individual unit, including rock hand samples, a biological specimen, or a bottle of fluid"
+18,http://vocabulary.odm2.org/specimentype/litterFallDigestion,Litter fall digestion,Sample that consists of a digestion of litter fall
+19,http://vocabulary.odm2.org/specimentype/orientedCore,Oriented core,Core that can be positioned on the surface in the same way that it was arranged in the borehole before extraction
+20,http://vocabulary.odm2.org/specimentype/other,Other,Sample does not fit any of the existing type designations. It is expected that further detailed description of the particular sample be provided
+21,http://vocabulary.odm2.org/specimentype/petriDishDryDeposition,Petri dish (dry deposition),Sample from dry deposition in a petri dish
+22,http://vocabulary.odm2.org/specimentype/precipitationBulk,Precipitation bulk,Sample from bulk precipitation
+23,http://vocabulary.odm2.org/specimentype/rockPowder,Rock powder,A sample created from pulverizing a rock to powder
+24,http://vocabulary.odm2.org/specimentype/standardReferenceSpecimen,Standard reference specimen,Standard reference specimen
+25,http://vocabulary.odm2.org/specimentype/terrestrialSection,Terrestrial section,"A sample of a section of the near-surface Earth, generally in the critical zone"
+26,http://vocabulary.odm2.org/specimentype/theSpecimenTypeIsUnknown,The specimen type is unknown,The specimen type is unknown
+27,http://vocabulary.odm2.org/specimentype/thinSection,Thin section,Thin section

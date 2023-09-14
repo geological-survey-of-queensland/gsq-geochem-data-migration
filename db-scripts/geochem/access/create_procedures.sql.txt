@@ -1,0 +1,5 @@
+CREATE TABLE procedures (
+    ID AUTOINCREMENT PRIMARY KEY,
+    iri TEXT,
+	label TEXT NOT NULL
+);

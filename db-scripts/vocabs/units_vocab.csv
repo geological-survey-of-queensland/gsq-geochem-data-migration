@@ -1,0 +1,4 @@
+"ID","iri","notation","pref_label","definition"
+1,"http://qudt.org/vocab/unit/PPB","PPB","Parts per billion","Dimensionless unit for concentration"
+2,"http://qudt.org/vocab/unit/PPM","PPM","Parts oer million","Dimensionless unit for concentration"
+3,"http://qudt.org/vocab/unit/PERCENT","PERCENT","Percent","""Percent"" is a unit for 'Dimensionless Ratio' expressed as %"

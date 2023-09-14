@@ -1,0 +1,4 @@
+"ID","iri","pref_label","definition"
+1,,"Float","Floating point number"
+2,,"Categorisation","A value selected from a controlled vocabulary"
+3,,"Description","Free descriptive text"

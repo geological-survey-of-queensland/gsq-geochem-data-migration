@@ -1,0 +1,13 @@
+ID,IRI,PREF_LABEL,DEFINITION
+1,http://qudt.org/vocab/quantitykind/AmountOfSubstancePerUnitMass,Amount Of Substance Per Unit Mass,The rate of presence of a substance within another substance
+2,https://linked.data.gov.au/def/observable-properties/amount-of-bauxite,Amount of Bauxite Per Unit Mass,The rate of presence of the clay bauxite within another substance
+3,https://linked.data.gov.au/def/observable-properties/amount-of-gold,Amount of Gold Per Unit Mass,The rate of presence of elemental gold within another substance
+4,https://linked.data.gov.au/def/observable-properties/amount-of-uranium-235,Amount of Uranium 235 Per Unit Mass,The rate of presence of uranium 235 isotope within another substance
+5,https://linked.data.gov.au/def/observable-properties/amount-of-uranium-238,Amount of Uranium 238 Per Unit Mass,The rate of presence of uranium 238 isotope within another substance
+6,https://linked.data.gov.au/def/observable-properties/amount-of-uranium,Amount of Uranium Per Unit Mass,The rate of presence of elemental uranium within another substance
+7,https://linked.data.gov.au/def/observable-properties/amount-of-basalt,Amount of a Basalt Per Unit Mass,The rate of presence of basaltic rocks within another substance
+8,https://linked.data.gov.au/def/observable-properties/amount-of-a-compound,Amount of a Compound Per Unit Mass,The rate of presence of a chemical compound within another substance
+9,https://linked.data.gov.au/def/observable-properties/amount-of-a-metal,Amount of a Metal Per Unit Mass,The rate of presence of a metallic chemical element within another substance
+10,https://linked.data.gov.au/def/observable-properties/amount-of-a-mineral,Amount of a Mineral Per Unit Mass,The rate of presence of a mineral within another substance
+11,https://linked.data.gov.au/def/observable-properties/amount-of-an-element,Amount of an Element Per Unit Mass,The rate of presence of a chemical element within another substance
+12,https://linked.data.gov.au/def/observable-properties/amount-of-an-isotope,Amount of an Isotope Per Unit Mass,The rate of presence of a chemical isotope of an element within another substance
